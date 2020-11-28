@@ -25,7 +25,7 @@ def sorted_matrix
   produce_storage_room = [
 ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
 ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
-  ].sorted_matrix
+  ].sort
 end
 
 def matrix_lookup(matrix, row, column)
