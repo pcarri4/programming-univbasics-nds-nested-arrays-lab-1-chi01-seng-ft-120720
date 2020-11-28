@@ -1,5 +1,3 @@
-# Examples inspired by U. S. National Organic Standards
-
 ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
